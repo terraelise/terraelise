@@ -9,17 +9,17 @@
 ### Current Corporate Tech Stack and Tools
 
 <div>
-<img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg' width="40" height="40" alt="TailwindCSS">
-<img src='https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg' width="40" height="40" alt="Storybook">
-<img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width="40" height="40" alt="ReactJS">
-<img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' width="40" height="40" alt="Typescript">
-<img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg' width="40" height="40" alt="NextJS">
-<img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width="40" height="40" alt="HTML">
-<img src='https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg' width="40" height="40" alt="ESLint">
-<img src='https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg' width="40" height="40" alt="Figma">
-<img src='https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg' width="40" height="40" alt="Adobe Illustrator">
-<img src='https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg' width="40" height="40" alt="Adobe Photoshop">
-<img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' width="40" height="40" alt="VSCode">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg' width="40" height="40" alt="TailwindCSS">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg' width="40" height="40" alt="Storybook">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width="40" height="40" alt="ReactJS">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="40" height="40" alt="Typescript">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg' width="40" height="40" alt="NextJS">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' width="40" height="40" alt="HTML">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg' width="40" height="40" alt="ESLint">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' width="40" height="40" alt="Figma">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg' width="40" height="40" alt="Adobe Illustrator">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg' width="40" height="40" alt="Adobe Photoshop">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' width="40" height="40" alt="VSCode">
 </div>
 
 <!--
