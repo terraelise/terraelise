@@ -9,7 +9,7 @@
 ### Current Corporate Tech Stack and Tools
 
 <div>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg' width="40" height="40" alt="TailwindCSS">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg' width="40" height="40" alt="TailwindCSS">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg' width="40" height="40" alt="Storybook">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width="40" height="40" alt="ReactJS">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg' width="40" height="40" alt="Typescript">
